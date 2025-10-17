@@ -15,7 +15,7 @@ Originally developed for the live piece
 
 ---
 
-![img.png](img/UI.png)
+![img.png](img/gui.png)
 
 ## Features
 
